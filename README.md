@@ -9,3 +9,9 @@
   + It includes various clustering plots. 
   + For each plot, I have considered 2 features at a time from Sepal Length, Sepal Width, Petal Length and Petal Width.
   + In conclusion, the result suggested that considering Petal Length and Petal Width as features for plotting, provides the best result for clustering.
+### 3. Spam Mail Prediction Model
+  + This Model is trained using the [Kaggle Spam Mail Dataset](https://www.kaggle.com/datasets/venky73/spam-mails-dataset).
+  + Accuracy of this model on the test split of the above mentioned dataset was over 98%.
+### 4. Movie Recommendation System
+  + This Model is trained using the [Kaggle IMDB Movies Dataset](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows).
+  + This Model recommended Avengers, Sherlok Homes etc. when it was provided with an input of Iron Man.
